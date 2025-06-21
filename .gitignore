@@ -196,3 +196,4 @@ cython_debug/
 .RData
 __pycache__/
 venv/
+.DS_Store
