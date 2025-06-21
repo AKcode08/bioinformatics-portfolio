@@ -1,0 +1,11 @@
+name: scrnaseq-pbmc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - scanpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
