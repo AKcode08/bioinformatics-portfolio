@@ -1,0 +1,7 @@
+2025-06-26 16:51:24	2.5s	gloomy_monod	ERR	d8f5af3affaae32f209173febbf051a4	f7c48f6d-a5ac-4e0d-ba2b-d8bdfefcb88f	nextflow run workflow/main.nf
+2025-06-26 16:53:16	1.8s	spontaneous_hodgkin	ERR	d8f5af3affaae32f209173febbf051a4	77f55287-e872-44bb-bc46-8becfbdaefe7	nextflow run workflow/main.nf
+2025-06-26 17:00:18	2.2s	loquacious_crick	ERR	d8f5af3affaae32f209173febbf051a4	9e6bdd95-2732-44c5-aacb-87b71d4c51ae	nextflow run workflow/main.nf
+2025-06-26 17:04:47	-	chaotic_gilbert	-	05b9cf9a39374f760a1de400a5948e5f	4e4af4c4-4b3c-419a-88d5-79ecdcf02326	nextflow run workflow/main.nf
+2025-06-26 17:07:29	-	agitated_chandrasekhar	-	05b9cf9a39374f760a1de400a5948e5f	7851cddf-a976-40e8-9505-4a8fb092cbb3	nextflow run workflow/main.nf
+2025-06-26 17:09:35	2.7s	chaotic_keller	ERR	05b9cf9a39374f760a1de400a5948e5f	8f21fc65-3d4d-471d-884d-fd764f437779	nextflow run workflow/main.nf
+2025-06-26 17:12:55	2.2s	zen_hamilton	ERR	05b9cf9a39374f760a1de400a5948e5f	7320cc4e-19e7-4be5-aa84-d2c9b69fb678	nextflow run workflow/main.nf

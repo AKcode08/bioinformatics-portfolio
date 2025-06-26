@@ -1,0 +1,18 @@
+name: tcga-biomarker-env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - lifelines
+  - gseapy
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+      - plotly
