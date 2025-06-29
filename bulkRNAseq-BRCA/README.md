@@ -39,13 +39,6 @@ bulkRNAseq-BRCA/
 
 > ⚙️ The automation is in progress, but core processes are working and testable.
 
-```bash
-cd tcga-biomarker-pipeline
-nextflow run workflow/main.nf
-```
-
-Ensure you have input data in the `data/` folder before running.
-
 ---
 
 ## 📈 Sample Outputs
