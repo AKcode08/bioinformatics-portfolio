@@ -3,8 +3,8 @@
 Welcome to my bioinformatics portfolio, showcasing projects focused on:
 
 - Single-cell RNA sequencing (scRNA-seq)  
-- Prognostic biomarker discovery  
-- Cell & gene therapy analytics  
+- Bulk RNAseq prognostic biomarker discovery  
+- Genomics and machine Learning  
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my bioinformatics portfolio, showcasing projects focused on:
 
 - **Languages & Libraries:**  
   Python 3.10+  
-  - Pandas, Lifelines, GSEApy, Matplotlib, Seaborn, Plotly  
+  - Pandas, Lifelines, GSEApy, Matplotlib, Seaborn, Plotly, scikit-learn  
 
 - **Data Sources:**  
   - [10X Genomics](https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)  
@@ -30,7 +30,7 @@ Welcome to my bioinformatics portfolio, showcasing projects focused on:
   - [GEO (Gene Expression Omnibus)](https://www.ncbi.nlm.nih.gov/geo/)  
 
 - **Ecosystem & Tools:**  
-  Jupyter, Git, GitHub, Nextflow (in progress), Streamlit
+  Jupyter, Git, GitHub
 
 ---
 
