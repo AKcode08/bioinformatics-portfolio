@@ -14,7 +14,7 @@ Welcome to my bioinformatics portfolio, showcasing projects focused on:
 |----------------------------|------------------------------------------------------------------------------|---------------|
 | **scRNAseq-PBMC**          | End-to-end single-cell analysis using [10X Genomics PBMC 3k dataset](https://www.10xgenomics.com/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0) | ✅ Completed  |
 | **bulkRNAseq-BRCA**        | Prognostic biomarker discovery using [TCGA Breast Cancer (BRCA) RNA-seq data](https://xenabrowser.net/datapages/?cohort=TCGA%20Breast%20Cancer%20(BRCA)&removeHub=http%3A%2F%2F127.0.0.1%3A7222). Includes statistical modeling, survival analysis, biological enrichment, and a modular automation-ready pipeline. | ✅ Completed  |
-| **celltherapy-response**   | Signature analysis in CAR-T therapy responders                              | ⏳ Planned    |
+| **genomics-ml-BRCA**       | Classification of breast cancer subtypes using TCGA somatic mutation data. Includes TMB analysis, driver gene profiling, pathway enrichment, and random forest modeling. | ✅ Completed  |
 
 ---
 
