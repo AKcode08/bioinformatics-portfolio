@@ -1,0 +1,26 @@
+name: genomics-ml-BRCA
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - gseapy
+  - ipykernel
+  - jupyter
+  - openpyxl
+  - biopython
+  - requests
+  - tqdm
+  - r-base
+  - r-tidyverse
+  - r-tcgabiolinks
+  - r-data.table
+  - r-readr
+  - r-ggplot2
+  - r-magrittr

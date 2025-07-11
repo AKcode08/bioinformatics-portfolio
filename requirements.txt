@@ -1,0 +1,44 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+requests
+joblib
+
+# Plotting & Reporting
+plotly
+jupyter
+jupyterlab
+notebook
+nbformat
+
+# Statistical Modeling & Survival Analysis
+lifelines
+statsmodels
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Enrichment & Bioinformatics
+gseapy
+mygene
+biothings_client
+
+# IO and File Handling
+openpyxl
+xlrd
+
+# scRNA-seq (Project 1)
+scanpy
+anndata
+scikit-misc
+
+# RNA-seq DE & Enrichment (Project 2)
+rpy2  # interface with DESeq2, ensure R is installed
+
+# Logging / Formatting
+tabulate
