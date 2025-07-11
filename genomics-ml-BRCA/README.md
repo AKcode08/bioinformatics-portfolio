@@ -121,4 +121,4 @@ genomics-ml-BRCA/
 **Aman Kumar**  
 MSc Bioinformatics (Candidate), University of Birmingham Dubai  
 📧 amanaastha.ak@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-6218a0165/)
